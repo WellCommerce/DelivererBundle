@@ -10,15 +10,15 @@
  * please view the LICENSE file that was distributed with this source code.
  */
 
-namespace WellCommerce\Bundle\DelivererBundle\Manager\Admin;
+namespace WellCommerce\Bundle\DelivererBundle\Manager;
 
-use WellCommerce\Bundle\CoreBundle\Manager\Admin\AbstractAdminManager;
+use WellCommerce\Bundle\CoreBundle\Manager\AbstractManager;
 
 /**
  * Class DelivererManager
  *
  * @author  Adam Piotrowski <adam@wellcommerce.org>
  */
-class DelivererManager extends AbstractAdminManager
+class DelivererManager extends AbstractManager
 {
 }
